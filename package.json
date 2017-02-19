@@ -1,0 +1,14 @@
+{
+  "name": "requestheader",
+  "version": "1.0.0",
+  "description": " I can get the IP address, language and operating system for my browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Ruiz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
